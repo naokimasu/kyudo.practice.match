@@ -10,3 +10,6 @@
 ## 起動方法
 pip install -r requirements.txt
 python app.py
+
+こちらのURLからご利用いただけます
+kyudo-test.onrender.com/
