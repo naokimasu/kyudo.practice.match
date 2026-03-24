@@ -39,7 +39,7 @@ function realMode() {
             i = i - 1;
         }
     }
-    setInterval(showNext, 5000);
+    setInterval(showNext, 10000);
     setInterval(totalResView, 5000*(lenRes+0.25));
 }
 
